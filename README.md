@@ -20,6 +20,9 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/8381/8381998.png" width="30px" alt="screen"> Screenshots
 [Click me](https://github.com/xiaomizin/screenshots.md/blob/main/images.md)
 
+## <img src="https://cdn-icons-png.flaticon.com/512/2270/2270790.png" width="30px" alt="feedback"> Feedback
+If you want to leave any negative or positive feedback, please contact us by email: gabrieloliveirabrx@gmail.com
+
 ## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055470.png" width="30px" alt="faq"> FAQ
 - *Can the program damage my device?*
 We recommend that all users create a restore point before using any function of our program. (If you don't know how to do this click see the tutorial below)
