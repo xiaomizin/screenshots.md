@@ -18,7 +18,7 @@
 
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/8381/8381998.png" width="30px" alt="screen"> Screenshots
-
+[Click me](https://github.com/xiaomizin/screenshots.md/blob/main/images.md)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055470.png" width="30px" alt="faq"> FAQ
 - *Can the program damage my device?*
